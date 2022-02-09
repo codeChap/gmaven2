@@ -1,0 +1,1 @@
+composer require codechap/gmaven2:dev-master
