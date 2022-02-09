@@ -59,11 +59,13 @@ class Gmv
 		print \yii\helpers\BaseConsole::renderColoredString("%G Getting unit images %n") . PHP_EOL;
 		$this->getUnitImages();
 
-		print \yii\helpers\BaseConsole::renderColoredString("%G Getting brokers %n") . PHP_EOL;
-		$this->getBrokers();
+		// Takes too long
+		//print \yii\helpers\BaseConsole::renderColoredString("%G Getting brokers %n") . PHP_EOL;
+		//$this->getBrokers();
 
-		print \yii\helpers\BaseConsole::renderColoredString("%G Getting contacts %n") . PHP_EOL;
-		$this->getContacts();
+		// Takes too long
+		//print \yii\helpers\BaseConsole::renderColoredString("%G Getting contacts %n") . PHP_EOL;
+		//$this->getContacts();
 	}
 
 	/**
