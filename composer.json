@@ -1,0 +1,19 @@
+{
+    "name": "codechap/gmaven2",
+    "description": "Sync properties from Gmaven API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Codechap\\Gmaven2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CodeChap",
+            "email": "hello@codechap.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
